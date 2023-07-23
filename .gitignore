@@ -1,0 +1,21 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+bin/
+target/
+.settings/
+gradle/
+.gradle/
+.idea/
+build/
+.project
+
+.metadata 
+.classpath
+/.springBeans
+/target
+/target
